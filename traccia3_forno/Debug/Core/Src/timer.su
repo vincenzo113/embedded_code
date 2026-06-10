@@ -1,0 +1,9 @@
+../Core/Src/timer.c:5:8:timer_init	32	static
+../Core/Src/timer.c:20:8:timer_start	24	static
+../Core/Src/timer.c:33:8:timer_stop	24	static
+../Core/Src/timer.c:46:8:timer_reset	24	static
+../Core/Src/timer.c:60:8:timer_is_running	24	static
+../Core/Src/timer.c:70:8:timer_is_elapsed	24	static
+../Core/Src/timer.c:81:8:timer_is_myhandler	24	static
+../Core/Src/timer.c:95:8:timer_set_period	32	static
+../Core/Src/timer.c:112:8:timer_period_elapsed	24	static
