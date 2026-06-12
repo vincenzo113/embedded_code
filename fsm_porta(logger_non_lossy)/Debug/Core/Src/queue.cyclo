@@ -1,0 +1,12 @@
+../Core/Src/queue.c:11:20:increase_head	1
+../Core/Src/queue.c:17:20:extract_data	1
+../Core/Src/queue.c:23:9:queue_init	5
+../Core/Src/queue.c:40:9:queue_enqueue	4
+../Core/Src/queue.c:69:9:queue_head	4
+../Core/Src/queue.c:97:9:queue_extract	4
+../Core/Src/queue.c:127:9:queue_dequeue	3
+../Core/Src/queue.c:154:9:queue_get_length	3
+../Core/Src/queue.c:167:9:queue_get_size	3
+../Core/Src/queue.c:180:9:queue_get_item_size	3
+../Core/Src/queue.c:193:9:queue_is_full	3
+../Core/Src/queue.c:215:9:queue_is_empty	3
