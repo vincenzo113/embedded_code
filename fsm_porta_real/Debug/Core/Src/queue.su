@@ -1,0 +1,11 @@
+../Core/Src/queue.c:6:20:increase_head	16	static
+../Core/Src/queue.c:12:20:extract_data	24	static
+../Core/Src/queue.c:18:9:queue_init	24	static
+../Core/Src/queue.c:35:9:queue_enqueue	24	static,ignoring_inline_asm
+../Core/Src/queue.c:64:9:queue_head	24	static,ignoring_inline_asm
+../Core/Src/queue.c:92:9:queue_extract	24	static,ignoring_inline_asm
+../Core/Src/queue.c:122:9:queue_dequeue	24	static,ignoring_inline_asm
+../Core/Src/queue.c:149:9:queue_get_length	16	static,ignoring_inline_asm
+../Core/Src/queue.c:162:9:queue_get_size	16	static,ignoring_inline_asm
+../Core/Src/queue.c:175:9:queue_get_item_size	16	static,ignoring_inline_asm
+../Core/Src/queue.c:188:9:queue_is_empty	24	static,ignoring_inline_asm
