@@ -1,0 +1,12 @@
+../Core/Src/timer.c:5:8:timer_init	3
+../Core/Src/timer.c:20:8:timer_start	2
+../Core/Src/timer.c:33:8:timer_start_pwm	2
+../Core/Src/timer.c:46:8:timer_stop	2
+../Core/Src/timer.c:59:8:timer_reset	2
+../Core/Src/timer.c:73:8:timer_is_running	2
+../Core/Src/timer.c:83:8:timer_is_elapsed	2
+../Core/Src/timer.c:94:8:timer_is_myhandler	4
+../Core/Src/timer.c:109:8:timer_set_duty_x10	9
+../Core/Src/timer.c:133:8:timer_set_period_ms	3
+../Core/Src/timer.c:157:8:timer_set_period	2
+../Core/Src/timer.c:174:8:timer_period_elapsed	2
