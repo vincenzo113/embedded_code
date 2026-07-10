@@ -1,0 +1,10 @@
+../Core/Src/button.c:5:8:button_init	32	static
+../Core/Src/button.c:24:8:button_set_delay	24	static
+../Core/Src/button.c:37:8:button_get_delay	24	static
+../Core/Src/button.c:50:8:button_read	32	static
+../Core/Src/button.c:85:15:button_get_port	24	static
+../Core/Src/button.c:98:15:button_get_pin_number	24	static
+../Core/Src/button.c:112:8:button_read_pressed	24	static
+../Core/Src/button.c:126:8:button_reset_pressed	24	static
+../Core/Src/button.c:141:8:button_pressed_handler	24	static
+../Core/Src/button.c:155:8:button_get_and_clear_pressed	24	static,ignoring_inline_asm

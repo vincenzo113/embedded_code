@@ -1,0 +1,12 @@
+../Core/Src/fsm_logic.c:47:8:FSM_init	10
+../Core/Src/fsm_logic.c:71:8:FSM_step	2
+../Core/Src/fsm_logic.c:78:15:FSM_read_inputs	5
+../Core/Src/fsm_logic.c:103:15:FSM_update_state	5
+../Core/Src/fsm_logic.c:113:15:FSM_latern_inactive	8
+../Core/Src/fsm_logic.c:134:15:FSM_latern_red	10
+../Core/Src/fsm_logic.c:157:15:FSM_latern_yellow	10
+../Core/Src/fsm_logic.c:180:15:FSM_latern_green	10
+../Core/Src/fsm_logic.c:203:6:HAL_GPIO_EXTI_Callback	5
+../Core/Src/fsm_logic.c:223:6:HAL_TIM_PeriodElapsedCallback	1
+../Core/Src/fsm_logic.c:227:6:HAL_UART_TxCpltCallback	2
+../Core/Src/fsm_logic.c:232:6:print_message	2
