@@ -1,0 +1,12 @@
+../Core/Src/fsm_logic.c:91:8:FSM_init	24	static
+../Core/Src/fsm_logic.c:124:8:FSM_step	24	static
+../Core/Src/fsm_logic.c:157:15:FSM_read_inputs	8	static
+../Core/Src/fsm_logic.c:192:15:FSM_update_state	8	static
+../Core/Src/fsm_logic.c:216:15:FSM_stateIdle	8	static
+../Core/Src/fsm_logic.c:232:15:FSM_stateInsertPin	16	static
+../Core/Src/fsm_logic.c:278:15:FSM_stateUnlocked	8	static
+../Core/Src/fsm_logic.c:291:15:FSM_stateLockout	8	static
+../Core/Src/fsm_logic.c:307:15:FSM_stateWrongPin	8	static
+../Core/Src/fsm_logic.c:323:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/fsm_logic.c:330:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/fsm_logic.c:337:6:HAL_UART_ErrorCallback	16	static
