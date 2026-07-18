@@ -1,0 +1,16 @@
+../Core/Src/fsm_logic.c:86:15:transmit	2
+../Core/Src/fsm_logic.c:104:8:FSM_init	15
+../Core/Src/fsm_logic.c:135:8:consume_task	4
+../Core/Src/fsm_logic.c:146:8:FSM_step	5
+../Core/Src/fsm_logic.c:179:15:FSM_read_inputs	11
+../Core/Src/fsm_logic.c:215:15:FSM_stateIdle	5
+../Core/Src/fsm_logic.c:230:15:FSM_stateInsertCode	18
+../Core/Src/fsm_logic.c:287:15:FSM_stateAccessGranted	5
+../Core/Src/fsm_logic.c:297:15:FSM_stateAccessDenied	3
+../Core/Src/fsm_logic.c:306:15:FSM_stateLockout	12
+../Core/Src/fsm_logic.c:335:15:FSM_stateTamperAlarm	5
+../Core/Src/fsm_logic.c:352:15:FSM_update_state	7
+../Core/Src/fsm_logic.c:373:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/fsm_logic.c:380:6:HAL_UART_RxCpltCallback	3
+../Core/Src/fsm_logic.c:389:6:HAL_UART_TxCpltCallback	2
+../Core/Src/fsm_logic.c:395:6:HAL_UART_ErrorCallback	3
